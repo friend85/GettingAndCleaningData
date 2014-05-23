@@ -2,6 +2,7 @@ Project for Getting And Cleaning Data
 ======================================
 
 This is the repository for the project for the Coursera course, "Getting and Cleaning Data."
+-------------------------------------------------------------------------------------
 
 It contains an R script file, called *run_nalysis.R*. It does the following.
 
@@ -15,4 +16,4 @@ To use the script, do the following in R.
 
 1. Copy the script file *run_analysis.R* in your working directory of R.
 2. The folder, named *UCI HAR Dataset*, should be in the same directory.
-3. In R, `> source("run_analysis.R")`. Two data sets, *extracted.csv* and *tidy.csv*, will be created in the same directory.
+3. In R, run `> source("run_analysis.R")`. Files for two data sets, *extractedData.txt* and *tidyData.txt*, will be created in the same directory.
