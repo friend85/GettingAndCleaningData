@@ -82,5 +82,5 @@ The script produces two data sets with 81 columns. Each column has labels below 
 77. fBodyBodyGyroJerkMag-mean()
 78. fBodyBodyGyroJerkMag-std()
 79. fBodyBodyGyroJerkMag-meanFreq()
-80.subject
+80. subject
 81. activity
